@@ -16,9 +16,27 @@ ________________________________________________________________________________
 
 ![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/fca20177d2fcc7fa6c48ab457f6166519f329681/02.png)
 
+![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/e110bfee5f96edce4e543af71d0dbc6ebec36866/03.gif)
 
 
-<p style="color:white; font-weight: bold;" background-color:#FF0000;">𝘉𝘖𝘙𝘕 𝘪𝘴 𝘮𝘰𝘳𝘦 𝘵𝘩𝘢𝘯 𝘫𝘶𝘴𝘵 𝘢 𝘯𝘢𝘮𝘦!</p><br>
+<div>
+  <h1 align="left" font-size: 20px;>𝗱𝗲𝘀𝗶𝗴𝗻,
+    <br>𝗰𝗼𝗱𝗲 & 
+    <br>𝗺𝗲  
+    <img src="https://github.com/marianelaalbrigi/recursos/blob/d4a8063c4bb5d89bba3b2ba9c9495bbf635520a1/04.gif" alt=hearth width="25px"/> 
+  </h1>
+ 
+</div>
+
+      
+   
+  
+    
+  </tr>
+</table>
+
+
+
 ＡＵＤＩＯＶＩＳＵＡＬ ＤＥＳＩＧＮＥＲ
 𝖠𝖴𝖣𝖨𝖮𝖵𝖨𝖲𝖴𝖠𝖫 𝖣𝖤𝖲𝖨𝖦𝖭𝖤𝖱
 𝗔𝗨𝗗𝗜𝗢𝗩𝗜𝗦𝗨𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥
