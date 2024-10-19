@@ -14,27 +14,40 @@ ________________________________________________________________________________
   </p>
 </div>
 
+<br>
+
 ![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/fca20177d2fcc7fa6c48ab457f6166519f329681/02.png)
 
-![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/e110bfee5f96edce4e543af71d0dbc6ebec36866/03.gif)
+<br>
+<br>
+
+<img src="https://github.com/marianelaalbrigi/recursos/blob/ad91f4ae622067ff93e45e9f00be2fff46d164cf/03_b.gif" alt=skills;/>
+
+<br>
 
 <div>
-  <img src="https://github.com/marianelaalbrigi/recursos/blob/86e7eea1f7131c3fa792337344703ac249989409/photoshop.png" alt=ps align="right"; width="70px"/> 
+  <div align= "right";>
+    <img src="https://github.com/marianelaalbrigi/recursos/blob/569e48ca42995da43045e8623d969d13bc595690/tools.png" alt=tools; width="500px"; align= "right";/> 
+  </div>
+  
   <div align="left">
-    <h1 align="left">𝗱𝗲𝘀𝗶𝗴𝗻,
+    <h1>𝗱𝗲𝘀𝗶𝗴𝗻,
       <br>𝗰𝗼𝗱𝗲 & 
       <br>𝗺𝗲
       <img src="https://github.com/marianelaalbrigi/recursos/blob/d4a8063c4bb5d89bba3b2ba9c9495bbf635520a1/04.gif" alt=hearth width="25px"/> 
     </h1>
-  </div>
+  </div> 
+<br>
+<br>
+<br>
+<br>
+
+
 </div> 
-  
-    
-
- 
+<p align="center">Currently</p>
 
 
-| BORN isn't just a name! <br> It's my values, skills, and experiences. <br><br> I'm Born <br> Making the impossible happen! | ![Mi GIF](https://github.com/marianelaalbrigi/recursos/blob/86e7eea1f7131c3fa792337344703ac249989409/photoshop.png") |
+
   
  
 
@@ -45,15 +58,6 @@ ________________________________________________________________________________
 
 
 
-
-ＡＵＤＩＯＶＩＳＵＡＬ ＤＥＳＩＧＮＥＲ
-𝖠𝖴𝖣𝖨𝖮𝖵𝖨𝖲𝖴𝖠𝖫 𝖣𝖤𝖲𝖨𝖦𝖭𝖤𝖱
-𝗔𝗨𝗗𝗜𝗢𝗩𝗜𝗦𝗨𝗔𝗟 𝗗𝗘𝗦𝗜𝗚𝗡𝗘𝗥
-ＡＵＤＩＯＶＩＳＵＡＬ ＤＥＳＩＧＮＥＲ
-ＡＵＤＩＯＶＩＳＵＡＬ ＤＥＳＩＧＮＥＲ
-𝙰𝚄𝙳𝙸𝙾𝚅𝙸𝚂𝚄𝙰𝙻 𝙳𝙴𝚂𝙸𝙶𝙽𝙴𝚁
-
-<h3 align="center">BORN IS MORE THAN A NAME!</h3>
 ## Hi there 👋
 <!--
 **marianelaalbrigi/marianelaalbrigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
