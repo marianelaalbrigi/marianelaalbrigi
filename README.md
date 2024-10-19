@@ -18,22 +18,31 @@ ________________________________________________________________________________
 
 ![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/e110bfee5f96edce4e543af71d0dbc6ebec36866/03.gif)
 
-
 <div>
-  <h1 align="left" font-size: 20px;>𝗱𝗲𝘀𝗶𝗴𝗻,
-    <br>𝗰𝗼𝗱𝗲 & 
-    <br>𝗺𝗲  
-    <img src="https://github.com/marianelaalbrigi/recursos/blob/d4a8063c4bb5d89bba3b2ba9c9495bbf635520a1/04.gif" alt=hearth width="25px"/> 
-  </h1>
- 
-</div>
-
-      
-   
+  <img src="https://github.com/marianelaalbrigi/recursos/blob/86e7eea1f7131c3fa792337344703ac249989409/photoshop.png" alt=ps align="right"; width="70px"/> 
+  <div align="left">
+    <h1 align="left">𝗱𝗲𝘀𝗶𝗴𝗻,
+      <br>𝗰𝗼𝗱𝗲 & 
+      <br>𝗺𝗲
+      <img src="https://github.com/marianelaalbrigi/recursos/blob/d4a8063c4bb5d89bba3b2ba9c9495bbf635520a1/04.gif" alt=hearth width="25px"/> 
+    </h1>
+  </div>
+</div> 
   
     
-  </tr>
-</table>
+
+ 
+
+
+| BORN isn't just a name! <br> It's my values, skills, and experiences. <br><br> I'm Born <br> Making the impossible happen! | ![Mi GIF](https://github.com/marianelaalbrigi/recursos/blob/86e7eea1f7131c3fa792337344703ac249989409/photoshop.png") |
+  
+ 
+
+
+    
+  
+    
+
 
 
 
