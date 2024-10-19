@@ -35,11 +35,11 @@ ________________________________________________________________________________
     </h1>
     <br>
   </div>
-  <div align= "center">
-    <img src="https://github.com/marianelaalbrigi/recursos/blob/7d048ffedb23537a9540c032aa7344f7bee6f541/up-arrow.png" alt="up" align= "center"; width="50px"/>
-  </div>
-  <div align= "center";>
-    <p align="center">𝙸´𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 programation's tools</p>
+
+  <div align= "right">
+    <p><img src="https://github.com/marianelaalbrigi/recursos/blob/7d048ffedb23537a9540c032aa7344f7bee6f541/up-arrow.png" alt="up"; width="50px"/>
+   <span> 𝗜´𝗠 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 <br> 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚´𝗦 𝗧𝗢𝗢𝗟 </span></p>
+    
   </div> 
     
     
@@ -50,7 +50,7 @@ ________________________________________________________________________________
 <br>
 <br>
 
- 
+ //
 
 Here are some ideas to get you started:
 
@@ -63,9 +63,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<div align="center">
-  <img height="200" src="https://github.com/marianelaalbrigi/recursos/blob/main/Comp%201.gif?raw=true"  />
-</div>
 
