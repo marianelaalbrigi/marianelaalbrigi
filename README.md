@@ -36,7 +36,7 @@ ________________________________________________________________________________
     <br>
   </div>
 
-  <div align= "right">
+  <div align= "center">
     <p><img src="https://github.com/marianelaalbrigi/recursos/blob/7d048ffedb23537a9540c032aa7344f7bee6f541/up-arrow.png" alt="up"; width="50px"/>
    <span> 𝗜´𝗠 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 <br> 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚´𝗦 𝗧𝗢𝗢𝗟 </span></p>
     
