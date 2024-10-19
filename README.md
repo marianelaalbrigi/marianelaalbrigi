@@ -14,9 +14,9 @@ ________________________________________________________________________________
   </p>
 </div>
 
-![Mi Gif](https://raw.githubusercontent.com/marianelaalbrigi/recursos/refs/heads/main/02.png)
+![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/fca20177d2fcc7fa6c48ab457f6166519f329681/02.png)
 
-![Mi Gif](https://raw.githubusercontent.com/marianelaalbrigi/recursos/refs/heads/main/03.gif)
+
 
 <p style="color:white; font-weight: bold;" background-color:#FF0000;">𝘉𝘖𝘙𝘕 𝘪𝘴 𝘮𝘰𝘳𝘦 𝘵𝘩𝘢𝘯 𝘫𝘶𝘴𝘵 𝘢 𝘯𝘢𝘮𝘦!</p><br>
 ＡＵＤＩＯＶＩＳＵＡＬ ＤＥＳＩＧＮＥＲ
