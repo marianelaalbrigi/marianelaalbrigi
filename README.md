@@ -7,13 +7,14 @@
 <br>
 <br>
 <div>
-  <p align="right" style="color:white; font-weight: bold;">𝘽𝙊𝙍𝙉 𝙞𝙨 𝙢𝙤𝙧𝙚 𝙩𝙝𝙖𝙣 𝙟𝙪𝙨𝙩 𝙖 𝙣𝙖𝙢𝙚.
+  <p align="right" style="color:#999999"; font-weight: bold;">𝘽𝙊𝙍𝙉 𝙞𝙨 𝙢𝙤𝙧𝙚 𝙩𝙝𝙖𝙣 𝙟𝙪𝙨𝙩 𝙖 𝙣𝙖𝙢𝙚.
     <br>𝙄𝙩 𝙧𝙚𝙥𝙧𝙚𝙨𝙚𝙣𝙩𝙨 𝙢𝙮 𝙫𝙖𝙡𝙪𝙚𝙨, 𝙖𝙗𝙞𝙡𝙞𝙩𝙞𝙚𝙨 𝙖𝙣𝙙 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚𝙨.
     <br>𝘽𝙊𝙍𝙉 𝙞𝙨 𝙩𝙝𝙞𝙣𝙠𝙞𝙣𝙜 𝙗𝙚𝙮𝙤𝙣𝙙 𝙬𝙝𝙖𝙩’𝙨 𝙥𝙤𝙨𝙨𝙞𝙗𝙡𝙚.
   </p>
 </div>
 
-![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/0e04a88fa3b6af7eb1f7452dca9f63f549be4c4d/01.png)
+
+![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/4f4b5d1ee88ed57d71acf96cea97dc457e38ce76/01.png)
 
 <br>
 <br>
