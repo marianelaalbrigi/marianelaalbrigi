@@ -12,7 +12,7 @@
   </p>
 </div>
 
-![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/4f4b5d1ee88ed57d71acf96cea97dc457e38ce76/01.png)
+![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/20bab81d23d6071511f6dbd44de3c80b5cbd84b8/01.png)
 
 <br>
 <br>
