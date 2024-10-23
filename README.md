@@ -10,7 +10,7 @@
 <br>
 <br>
 
-<img src="https://github.com/marianelaalbrigi/recursos/blob/a35687dc7090ad7bfe75cc1200805a135bb0c5d9/03_a.gif" alt=skills/>
+<img src="https://github.com/marianelaalbrigi/recursos/blob/b813082741e6df63d8bf6b8c097aa34c8a8e504e/03.gif" alt=skills/>
 
 <br>
 
