@@ -4,7 +4,6 @@
 <br>
 <br>
 <br>
-<br>
 
 ![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/20bab81d23d6071511f6dbd44de3c80b5cbd84b8/01.png)
 
