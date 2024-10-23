@@ -21,27 +21,20 @@
 
 <img src="https://github.com/marianelaalbrigi/recursos/blob/a35687dc7090ad7bfe75cc1200805a135bb0c5d9/03_a.gif" alt=skills;/>
 
-
 <br>
 
 <div>
   <div>
-    <img src="https://github.com/marianelaalbrigi/recursos/blob/fd2e30b0ab4e67b4d2d1f391fb149b3ca1d627cc/tools.png" alt="tools"; align= "right";/> 
+    <img src="https://github.com/marianelaalbrigi/recursos/blob/013347b9d1f3f546c6047ce67296f31287d3f21c/02-tool.png" alt="tools"; align= "right"; width="20px"/> 
   </div>
   <div align="left">
     <h1>𝗱𝗲𝘀𝗶𝗴𝗻,
       <br>𝗰𝗼𝗱𝗲 & 
       <br>𝗺𝗲
-      <img src="https://github.com/marianelaalbrigi/recursos/blob/d4a8063c4bb5d89bba3b2ba9c9495bbf635520a1/04.gif" alt="hearth" width="25px"/> 
+      <img src="https://github.com/marianelaalbrigi/recursos/blob/c582c8f7123a74abc57e2d844015107a6cfbb883/gif_rose.gif" alt="hearth" width="30px"/>       
     </h1>
-    <br>
   </div>
 
-  <div align= "center">
-    <p><img src="https://github.com/marianelaalbrigi/recursos/blob/7d048ffedb23537a9540c032aa7344f7bee6f541/up-arrow.png" alt="up"; width="50px"/>
-   <span> 𝗜´𝗠 𝗖𝗨𝗥𝗥𝗘𝗡𝗧𝗟𝗬 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚 <br> 𝗣𝗥𝗢𝗚𝗥𝗔𝗠𝗠𝗜𝗡𝗚 </span></p>
-    
-  </div> 
     
     
   
