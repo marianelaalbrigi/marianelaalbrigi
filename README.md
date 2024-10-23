@@ -19,7 +19,8 @@
 <br>
 <br>
 
-<img src="https://github.com/marianelaalbrigi/recursos/blob/ad91f4ae622067ff93e45e9f00be2fff46d164cf/03_b.gif" alt=skills;/>
+<img src="https://github.com/marianelaalbrigi/recursos/blob/a35687dc7090ad7bfe75cc1200805a135bb0c5d9/03_a.gif" alt=skills;/>
+
 
 <br>
 
