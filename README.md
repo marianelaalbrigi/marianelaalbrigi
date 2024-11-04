@@ -1,12 +1,10 @@
 <div>
-  <img src="https://github.com/marianelaalbrigi/recursos/blob/main/Comp%201.gif?raw=true" alt="Header GIF"/> 
+   <img src="https://github.com/marianelaalbrigi/recursos/blob/08ccfe855f0de8069b53de16a2e3cbd9d9b2b40d/tittle01.gif" alt="Header GIF" width="1100px"/> 
 </div>
-<br>
-<br>
+
 <br>
 
 ![Mi Gif](https://github.com/marianelaalbrigi/recursos/blob/20bab81d23d6071511f6dbd44de3c80b5cbd84b8/01.png)
-
 <br>
 <br>
 
