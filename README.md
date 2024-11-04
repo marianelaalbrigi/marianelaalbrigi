@@ -49,6 +49,10 @@
    
 </div>
 
+<img src="https://github.com/marianelaalbrigi/recursos/blob/1af5f41d39b47ee934434dcf731188842698133f/flecha02.png" alt="flecha" width="600px" align="right"/>
+<br>
+<br>
+
 ### 📚 Currently learning...
 - Frontend Development.
 
