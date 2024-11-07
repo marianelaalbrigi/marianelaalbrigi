@@ -10,6 +10,8 @@
 
 <img src="https://github.com/marianelaalbrigi/recursos/blob/b813082741e6df63d8bf6b8c097aa34c8a8e504e/03.gif" alt=skills/>
 
+<h4 align="justify"> I’m an audiovisual designer with experience in photography, retouching, production, and film direction. A self-taught graphic designer, I’m currently learning programming to create more interactive experiences. My courses in marketing, copywriting, and creativity help me better understand client needs and develop more effective design solutions.</h4>
+
 <br>
 
 <div align="left">
